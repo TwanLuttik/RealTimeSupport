@@ -1,0 +1,18 @@
+config-version: 1.2
+prefix-enabled: true
+user-max-tickets: 5
+MySQL:
+  enable-MySQL: false
+  host: "localhost"
+  port: 3306
+  username: username
+  password: password
+  database: db_name
+  useSSL: false
+subjects:
+  - Bug's
+  - Hacking
+  - Exploting
+  - Griefing
+  - Question's
+  - Other
